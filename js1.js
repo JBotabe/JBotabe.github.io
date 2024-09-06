@@ -27,9 +27,9 @@ julian_del_casal.addEventListener('click', function() {
 });
 
 jose_asuncion_silva.addEventListener('click', function() {
-  if (jose_asuncion_silva.getAttribute('src') === '/Jose_Asuncion_Silva_1_Normal.jpg') {
-    jose_asuncion_silva.src = '/Jose_Asuncion_Silva_2_Normal.jpg';
+  if (jose_asuncion_silva.getAttribute('src') === '/Jose_asuncion_silva_1_Normal.jpg') {
+    jose_asuncion_silva.src = '/Jose_asuncion_silva_2_Normal.jpg';
   } else {
-    jose_asuncion_silva.src = '/Jose_Asuncion_Silva_1_Normal.jpg';
+    jose_asuncion_silva.src = '/Jose_asuncion_silva_1_Normal.jpg';
   }
 });

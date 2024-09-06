@@ -11,10 +11,10 @@ ruben_dario.addEventListener('click', function() {
 });
 
 jose_marti.addEventListener('click', function() {
-  if (jose_marti.getAttribute('src') === '/Jose_Marti_1_Normal.jpg') {
-    jose_marti.src = '/Jose_Marti_2_Normal.jpg';
+  if (jose_marti.getAttribute('src') === '/jose_marti_1_Normal.jpg') {
+    jose_marti.src = '/jose_marti_2_Normal.jpg';
   } else {
-    jose_marti.src = '/Jose_Marti_1_Normal.jpg';
+    jose_marti.src = '/jose_marti_1_Normal.jpg';
   }
 });
 
